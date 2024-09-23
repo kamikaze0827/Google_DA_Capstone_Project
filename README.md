@@ -1,4 +1,4 @@
-# Google DA Capston Project
+# Google DA Capstone Project
 
 ## Overview
 
